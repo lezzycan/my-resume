@@ -1,16 +1,3 @@
 # my_resume
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app aim to show who I am and what I do. The app is built with flutter and it supports screen orientation, multi languages and system theme mode. I used flutter_localization for translating different languages, flutter_screenUtils for responsiveness and adaptiveness. I would like to add the navigation bars to show experience level, educational background I faced challenges with adb.exe and I solved it by uninstalling the older version.
